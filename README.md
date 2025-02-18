@@ -6,13 +6,13 @@ Projeto que utiliza PWM e um ADC para o controle do painel do Display e a intens
 
 ## 🔎 **Objetivos**
 
-O objetivo principal é consolidar os conceitos sobre o PWM e ADC, junto a um exercicio para controlar LEDs e um display SSD1307 OLED.
+O objetivo principal é consolidar os conceitos sobre o PWM e ADC, junto a um exercicio para controlar LEDs e um display SSD1306 OLED.
 
 ---
 
 ## 🎥 **Demonstração**
 
-[Ver Vídeo do Projeto]()
+[Ver Vídeo do Projeto](https://drive.google.com/file/d/1JmHE1eoYR1Gm9vlv70l-PwbXOhscp0gy/view?usp=sharing)
 
 ---
 
