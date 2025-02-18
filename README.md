@@ -1,4 +1,4 @@
-﻿# 📊 **Conversor Analógico Digital e PWMM com LED e Display**
+﻿# 📊 **Conversor Analógico Digital e PWM com LED e Display**
 
 Projeto que utiliza PWM e um ADC para o controle do painel do Display e a intensidade dos LEDs, para a residência de Sistemas Embarcados TIC 37 - Embarcatech
 
